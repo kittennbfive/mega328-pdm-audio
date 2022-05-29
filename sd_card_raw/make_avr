@@ -1,0 +1,2 @@
+#! /bin/sh
+avr-gcc main.c sw_uart_tx.c sd.c spi.c -Wall -Wextra -O3 -std=c99 -mmcu=atmega328p -o avr.elf -DF_CPU=20000000UL && avr-size avr.elf
