@@ -11,7 +11,7 @@ This tool converts a wave file into a PDM-data-file to be played through an ATme
 
 (c) 2022 by kittennbfive
 
-APGLv3+ and NO WARRANTY!
+AGPLv3+ and NO WARRANTY!
 
 Please read the documentation!
 
